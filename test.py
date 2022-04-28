@@ -23,7 +23,7 @@ def run():
     optiopn_list = []
     unlabeled_list = []
     labeled_list = []
-    if ln == '孙文丽':
+    if ln == 'swl':
         folder = 'images_eric'
         file = 'out_eric.csv'
     # elif ln == '王争争':
